@@ -1,8 +1,6 @@
 # ChurnWatch — Customer Retention and Churn Risk Analytics
 
 **Minor Project 1 — Data Analytics Internship Evaluation Submission**  
-**Author:** Data Analytics Intern  
-**Project Date:** October 2026  
 **Domain:** B2B SaaS Customer Analytics & Retention Operations  
 
 ---
