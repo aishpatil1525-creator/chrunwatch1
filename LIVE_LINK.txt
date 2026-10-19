@@ -1,0 +1,35 @@
+====================================================================
+CHURNWATCH — PROJECT ACCESS & LIVE LINKS
+Project: ChurnWatch — Customer Retention & Churn Risk Analytics
+Domain: B2B SaaS Customer Analytics & Retention Operations
+====================================================================
+
+1. LOCAL DASHBOARD LAUNCH (Zero Build / Instant Access):
+   - Simply double-click `dashboard/index.html` on any computer.
+   - It runs instantly in Google Chrome, Microsoft Edge, Firefox, or Safari.
+   - Zero installation, zero npm dependencies, and zero configuration required.
+
+2. LOCAL SERVER LAUNCH (Python):
+   - Open terminal in `dashboard/` folder and run:
+     python -m http.server 8000
+   - Open browser: http://localhost:8000
+
+3. FREE CLOUD DEPLOYMENT IN 30 SECONDS (Netlify Drop):
+   - Step 1: Open https://app.netlify.com/drop in your browser.
+   - Step 2: Drag and drop the `dashboard` folder into the upload box.
+   - Netlify will immediately generate a permanent live HTTPS link.
+
+4. GITHUB REPOSITORY / PAGES LINK:
+   - Repository: https://github.com/aishwarya-patil/churnwatch-analytics
+   - Live Demo: https://aishwarya-patil.github.io/churnwatch-analytics/
+   (Also configurable by pushing this repository and enabling GitHub Pages under Settings > Pages)
+
+====================================================================
+ALL DELIVERABLES INCLUDED IN THIS SUBMISSION:
+- PPT: presentation.pptx
+- PDF: report.pdf
+- Source Code: dashboard/ (HTML, CSS, JS), python/, sql/
+- Datasets: data/ (subscriptions, usage, support_tickets, unified_customers)
+- Screenshots: screenshots/ (4K browser captures)
+- Documentation: README.md, requirements.txt
+====================================================================
