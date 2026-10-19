@@ -7,6 +7,8 @@
 
 ## 1. 📊 Project Overview
 Repository link : https://github.com/aishpatil1525-creator/chrunwatch1.git
+
+
 Demo of live link :https://drive.google.com/file/d/1FI0vZGqBCqvpjU1QLs4frkqildDdJpH9/view?usp=sharing
 
 **ChurnWatch** is a production-grade business intelligence and customer retention platform designed for SaaS organizations. By unifying multi-source telemetries—contractual subscriptions, monthly product usage, and technical support interactions—ChurnWatch calculates a multi-dimensional **Churn Risk Index (0–100)** to detect early attrition signals, prioritize high-value revenue exposure, and equip Customer Success Managers (CSMs) with context-specific mitigation playbooks under strict SLAs.
