@@ -20,8 +20,8 @@ Domain: B2B SaaS Customer Analytics & Retention Operations
    - Netlify will immediately generate a permanent live HTTPS link.
 
 4. GITHUB REPOSITORY / PAGES LINK:
-   - Repository: 
-   - Live Demo: 
+   - Repository: https://github.com/aishpatil1525-creator/chrunwatch1.git
+   - Live Demo: https://drive.google.com/file/d/1FI0vZGqBCqvpjU1QLs4frkqildDdJpH9/view?usp=sharing
    (Also configurable by pushing this repository and enabling GitHub Pages under Settings > Pages)
 
 ====================================================================
